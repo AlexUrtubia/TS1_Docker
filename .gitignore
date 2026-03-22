@@ -11,7 +11,7 @@ npm-debug.log
 # OS
 .DS_Store
 
-# React build (opcional ignorar o no)
+# React build
 frontend/build
 
 # Git
