@@ -1,0 +1,18 @@
+# Node
+node_modules
+npm-debug.log
+
+# Logs
+*.log
+
+# Docker
+.env
+
+# OS
+.DS_Store
+
+# React build (opcional ignorar o no)
+frontend/build
+
+# Git
+.git
